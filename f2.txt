@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 sugam ahno ?
+=======
+sugam ahno ? 
+>>>>>>> dev
